@@ -1,4 +1,4 @@
-<img width="1247" height="717" alt="image" src="https://github.com/user-attachments/assets/0ff75cbe-8bb9-4ed8-bb8e-74c039f51f3a" /># Global-Metro-Infrastructure-Power-BI-StoryBoard
+# Global-Metro-Infrastructure-Power-BI-StoryBoard
 Studing Trends using Power BI on Global Metro Infrastructure Data
 
 <img width="1262" height="711" alt="image" src="https://github.com/user-attachments/assets/f3b588ee-edbb-4af4-b8d6-03c4a541fbb8" />
